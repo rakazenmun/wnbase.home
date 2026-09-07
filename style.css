@@ -6,7 +6,7 @@
 
 body {
   font-family: system-ui, sans-serif;
-  background-color: #12121a;
+  background-color: #464646;
   color: white;
   min-height: 100vh;
   display: flex;
@@ -24,14 +24,14 @@ header h1 {
   display: inline-block;
   padding: 0.9rem 2.25rem;
   font-size: 1.05rem;
-  background-color: #4f7cff;
+  background-color: #6780ca;
   color: white;
   border: none;
   border-radius: 10px;
   font-weight: 600;
   font-family: inherit;
   cursor: pointer;
-  box-shadow: 0 4px 14px rgba(79, 124, 255, 0.35);
+  box-shadow: 0 4px 14px rgba(58, 79, 141, 0.35);
   transition: background-color 0.15s ease, transform 0.1s ease, box-shadow 0.15s ease;
 }
 
